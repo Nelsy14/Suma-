@@ -6,7 +6,8 @@ Algoritmo Alg_suma
 	
 	suma =int_número1 + int_número2 
 	
-Escribir 'El resulado de la operacion de' , int_número1, ' + ' , int_número2, ' es:' , int_suma 
+	Escribir 'El resulado de la operacion de' , int_número1, ' + ' , int_número2, ' es:' , int_suma ' Mi primera chamba' 
+	
 
 	
 Escribir lista_de_expresiones
